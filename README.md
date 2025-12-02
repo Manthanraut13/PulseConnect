@@ -1,4 +1,4 @@
-# LifeLink - Smart Blood Donation Platform (Demo Version)
+# PulseConnect - Smart Blood Donation Platform (Demo Version)
 
 A clean, minimal demo of a blood donation management system showcasing core features for donors, blood banks, NGOs, and administrators.
 
